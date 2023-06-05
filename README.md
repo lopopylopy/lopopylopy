@@ -10,4 +10,5 @@ This is a _special_ repository because Github says it's mine
 So what's a git pull/push? beats me!\
 a git commit/reset? I honestly couldn't tell you the difference
 
-(also) This all here rhymes
+(also) This all here rhymes \
+(It's a bit of an indulgence)
