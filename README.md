@@ -1,11 +1,13 @@
-### Hi there 👋 
+### Hi there 👋 get with the times
 
-I'm Mr. Breakfast but won't change my username to that becuase I'm too scared it'll mess stuff up! :D 
+I'm Mr. Breakfast \
+But I don't want to *commit* any crimes 
 
-**lopopylopy/lopopylopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile! \
-(whatever that is supposed to mean)
+This is a _special_ repository because Github says it's mine 
 
-⚡ Fun fact: I don't know git and the only real contributions I've made are fixing readme.md's!
+✨ Fun fact ✨ I only edit READMEs 
 
-git pull/push: what is this? Physics class? \
-git commit/reset... same thing to me!
+So what's a git pull/push? beats me!\
+a git commit/reset? I honestly couldn't tell you the difference
+
+(also) This all here rhymes
